@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" fill="#0f172a"/>
+  <circle cx="100" cy="75" r="38" fill="#38bdf8"/>
+  <path d="M35 185 C35 135, 165 135, 165 185 Z" fill="#0284c7"/>
+  <text x="100" y="192" font-family="sans-serif" font-size="14" fill="#e2e8f0" text-anchor="middle">68130239</text>
+</svg>
